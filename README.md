@@ -3,13 +3,13 @@ The objective is to confront the programs developed by the participants in order
 
 ## Course of the competition
 ### 1- Registration (Up to 24 hours before the simulation):
-All participants must be registered on the competition site in order to be able to send their program or their repositories.
-### 2- Development time (About 1 months):
-During this time, participants must work out their programs in order to win the competition.
+All participants must be registered on the competition website in order to be able to send their program or their repository.
+### 2- Development time ( ~ 1 month):
+During this time, participants must work their programs out in order to win the competition.
 
 They can send and test their program under development online at any time to test whether it is functional and complies with the competition protocol.
-### 3-  Simulation time (About 2 days):
-During this time the servers will compare all the programs of all the participants to make the classification.
+### 3-  Simulation time ( ~ 2 days):
+During this time the servers will compare the programs of all the participants to make the classification.
 
 The calculation time may vary depending on the number of participants and the subject of the competition.
 ### 4- Live broadcast of results (24h after the results of the servers):
@@ -20,7 +20,7 @@ After this broadcast, all the details of the simulations and renderings will be 
 ## Rules
 If any of the rules below are not followed, you will be automatically disqualified from the competition.
 
-### Cheated:
+### Cheating:
 - Your program should not try to communicate with devices other than authorized ones
 - Your program must not harm the integrity of the server in charge of the simulation.
 - Your program should not call an external library unless it is implicitly allowed.
@@ -30,3 +30,4 @@ If any of the rules below are not followed, you will be automatically disqualifi
 - Your program will be disqualified if it takes more than a second to respond.
 - Your program will be disqualified if it crashes.
 - Your program will be disqualified if it does not follow competition protocol.
+- Your program must not be over 500MB.
